@@ -12,3 +12,5 @@ pages
 .command
 venv/
 venv
+# Virtual environment
+.venv/
